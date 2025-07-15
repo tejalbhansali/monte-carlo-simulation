@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+jupyter
+warnings
+geopy
+plotly
+time
